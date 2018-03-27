@@ -1,0 +1,6 @@
+theme: jekyll-theme-slate
+author: "PathologicalHandwaving"
+
+layouts_dir: _layouts
+posts_dir: _posts
+
